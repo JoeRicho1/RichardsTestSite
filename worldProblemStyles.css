@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body {
-    background-image: url("images/cement.jpg");
+    background-image: url("cement.jpg");
     background-repeat:repeat;
     background-blend-mode: color-burn;
     color:aliceblue;
@@ -24,7 +24,7 @@ h1 {
     text-decoration:none;
     text-align: center;
     font-size: 48px;
-    background-image: url("images/destruction.jpg");
+    background-image: url("destruction.jpg");
     background-size:cover;
     border-radius: 10px;
     padding: 40px;
